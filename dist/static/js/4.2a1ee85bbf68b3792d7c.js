@@ -1,0 +1,2 @@
+webpackJsonp([4],{"92e9":function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("我是排行榜收藏")])},staticRenderFns:[]};var d=n("VU/8")({data:function(){return{}}},r,!1,function(e){n("Rddp")},"data-v-2e4d2d7b",null);t.default=d.exports},Rddp:function(e,t){}});
+//# sourceMappingURL=4.2a1ee85bbf68b3792d7c.js.map
